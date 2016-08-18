@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1eb4e2</color>
+    <color name="colorPrimaryDark">#2E3D49</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="button_color_udacity">#2E3D49</color>
+</resources>
